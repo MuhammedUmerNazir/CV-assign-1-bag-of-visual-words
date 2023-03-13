@@ -62,7 +62,14 @@ Then load the Joblibs mentioned in the codes to load the models.
 
 ### Instructions to Run Train and Test Scripts
 
-The path mentioned in the code needs to be altered to match with where the Datasets are located in your machine in order for this code to work.
+The path for train and test sets mentioned in the code needs to be altered to match with where the Datasets are located in your machine in order for this code to work.
+
+### Visual Results
+The images below show how SIFT feature detector outputs the features and key points in the images which then constitude towards the formation of the codebook or the visual vocabulary. 
+![Flower Keypoints](https://user-images.githubusercontent.com/58668040/224603938-33526197-8401-4330-91e8-3778cc4fa810.png)
+![Keypoints Objects](https://user-images.githubusercontent.com/58668040/224603948-4b9237c5-6113-452a-9f63-ae672b60065f.png)
+![Keypoints Objects Image](https://user-images.githubusercontent.com/58668040/224603955-1d32a2cc-e988-4c1e-a6f2-826188a3bfee.png)
+
 
 ### Quantitative Results 
 #### Objects Dataset
@@ -74,9 +81,3 @@ The path mentioned in the code needs to be altered to match with where the Datas
 #### Flowers Dataset
 ![Flower_RF_CR](https://user-images.githubusercontent.com/58668040/224603629-66f42aea-eeac-4099-a2fd-975f36884ff7.png)
 ![Flowers_SVM_CR](https://user-images.githubusercontent.com/58668040/224603631-fce5d328-bc88-4b63-a718-247f124adf6e.png)
-
-### Visual Results
-
-![Flower Keypoints](https://user-images.githubusercontent.com/58668040/224603938-33526197-8401-4330-91e8-3778cc4fa810.png)
-![Keypoints Objects](https://user-images.githubusercontent.com/58668040/224603948-4b9237c5-6113-452a-9f63-ae672b60065f.png)
-![Keypoints Objects Image](https://user-images.githubusercontent.com/58668040/224603955-1d32a2cc-e988-4c1e-a6f2-826188a3bfee.png)
