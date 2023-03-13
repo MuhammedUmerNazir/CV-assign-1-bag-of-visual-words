@@ -9,3 +9,8 @@ known as Codebook Generation, lastly we train two classifiers, one
 using Support Vector Machines and the other one using Random For-
 est. We work on two datasets in this task, Objects Dataset and
 Flowers Dataset and perform these tasks for both these datasets.
+
+#### To Run the Code
+First copy the files Joblibs on your machine. 
+Then Import the mentioned libraries and dependencies in the code.
+Then load the Joblibs mentioned in the codes to load the models. 
