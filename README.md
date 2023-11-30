@@ -1,4 +1,4 @@
-# CV Assignment 1 Bag of Visual Words
+# Computer Vision Bag of Visual Words
 
 ### Abstract/Introduction
 The bag of visual words (BoVW) is a popular method for image
